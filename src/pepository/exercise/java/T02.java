@@ -1,6 +1,6 @@
 package pepository.exercise.java;
 
-public class P02 {
+public class T02 {
     public static void main(String[] args) {
         //手机信息登记(变量&数据类型练习
         String brand = ("小米17pro");
